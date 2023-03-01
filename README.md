@@ -166,16 +166,16 @@
     
 2. 백준 문제 정보를 notion으로 Post 보내는 스크립트 생성
     
-    만약, 위에서 레포지토리를 fork하였다면, 이미 필요한 스크립트는 레포지토리 안에 있으므로 설정이 필요없습니다. 아니라면, 아래의 폴더를 레포지토리에 압축을 풀어서 넣어주세요!!
+    만약, 위에서 레포지토리를 fork하였다면, 이미 필요한 스크립트는 레포지토리 안에 있으므로 설정이 필요없습니다. 아니라면, 아래의 폴더를 다운받아 레포지토리에 넣어주세요!!
     
-    [notion.zip](Baekjoon%20To%20Notion%203940eb13126c415faeb927db38ede6fd/notion.zip)
+    [notion.zip](https://github.com/mihye126/BaekjoonHub/tree/main/notion)
     
 
 ## .yml 파일 설정
 
 Action > Publish Python Package
 
-![Untitled](Baekjoon%20To%20Notion%203940eb13126c415faeb927db38ede6fd/Untitled%207.png)
+![Untitled](https://i.ibb.co/sFXfSYT/Untitled-7.png)
 
 ![Untitled](https://i.ibb.co/xmpf4xT/Untitled-8.png)
 
