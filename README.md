@@ -42,6 +42,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |10431. 줄세우기|[링크](./%EB%B0%B1%EC%A4%80/Silver/10431.%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md)|
+|10709. 기상캐스터|[링크](./%EB%B0%B1%EC%A4%80/Silver/10709.%E2%80%85%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0/README.md)|
 |2477. 참외밭|[링크](./%EB%B0%B1%EC%A4%80/Silver/2477.%E2%80%85%EC%B0%B8%EC%99%B8%EB%B0%AD/README.md)|
 |2563. 색종이|[링크](./%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/README.md)|
 |2567. 색종이 － 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EF%BC%8D%E2%80%852/README.md)|
