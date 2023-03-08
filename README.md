@@ -43,6 +43,7 @@
 |2920. 음계|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2920.%E2%80%85%EC%9D%8C%EA%B3%84/README.md)|
 |3985. 롤 케이크|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3985.%E2%80%85%EB%A1%A4%E2%80%85%EC%BC%80%EC%9D%B4%ED%81%AC/README.md)|
 |8320. 직사각형을 만드는 방법|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8320.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%9D%84%E2%80%85%EB%A7%8C%EB%93%9C%EB%8A%94%E2%80%85%EB%B0%A9%EB%B2%95/README.md)|
+|8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/README.md)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
 | ----- | ----- |
