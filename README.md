@@ -58,6 +58,7 @@
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
+|1015. 수열 정렬|[링크](./%EB%B0%B1%EC%A4%80/Silver/1015.%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%EC%A0%95%EB%A0%AC/README.md)|
 |10431. 줄세우기|[링크](./%EB%B0%B1%EC%A4%80/Silver/10431.%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md)|
 |1063. 킹|[링크](./%EB%B0%B1%EC%A4%80/Silver/1063.%E2%80%85%ED%82%B9/README.md)|
 |10709. 기상캐스터|[링크](./%EB%B0%B1%EC%A4%80/Silver/10709.%E2%80%85%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0/%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.py)|
